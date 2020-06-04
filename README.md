@@ -1,0 +1,2 @@
+# LWS
+Light Wallet Service
