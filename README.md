@@ -4,7 +4,7 @@ LWS 是 light wallet service 的缩写，是架设在 BigBang Core 公有区块�
 
 更多介绍请看查白皮书：  
 中文：https://www.bigbangcore.com/whitepaper/BigBang_Technical_WhitePaper.pdf  
-英文：https://www.bigbangcore.com/whitepaper/BigBang_Technical_WhitePaper_EN.pdf
+English：https://www.bigbangcore.com/whitepaper/BigBang_Technical_WhitePaper_EN.pdf
 
 WIKI地址：
 https://github.com/bigbangcore/LWS/wiki
